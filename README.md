@@ -3,7 +3,7 @@
  This project is based on the Breast Cancer Prediction  Dataset Analysis and Streamlit UI Frontend.  
 Here, the prediction whether the tumor is Benign (Non cancerous) or malignant (Cancerous) is made on the basis of the Breast Cancer Dataset imported from scikit library. 
 
-The Machine Learning Algorithm used here is the random Forest Classification Algorithm which maeks the decisions and take predictions based on the Decision Trees.  
+The Machine Learning Algorithm used here is the random Forest Classification Algorithm which makes the decisions and take predictions based on the Decision Trees.  
 
 The predictions are made on features based on : 
  1. Mean of measurements like the mean radius, mean texture, mean perimeter, mean area, mean smoothness, mean compactness, mean concativity, mean concave pointsand mean symmerty
