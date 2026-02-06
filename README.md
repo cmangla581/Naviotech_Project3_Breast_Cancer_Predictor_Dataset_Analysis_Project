@@ -6,10 +6,10 @@ Here, the prediction whether the tumor is Benign (Non cancerous) or malignant (C
 The Machine Learning Algorithm used here is the random Forest Classification Algorithm which makes the decisions and take predictions based on the Decision Trees.  
 
 The predictions are made on features based on : 
- 1. Mean of measurements like the mean radius, mean texture, mean perimeter, mean area, mean smoothness, mean compactness, mean concativity, mean concave pointsand mean symmerty
+ 1. Mean of measurements like the mean radius, mean texture, mean perimeter, mean area, mean smoothness, mean compactness, mean concavity, mean concave points and mean symmetry. 
  2. The Standard Error variations shows like the radius_error, texture_error, perimeter_error, area_error, smoothness_error etc.
 
-I've also made various plots foor easy visualization of the dataset analysis including the : 
+I've also made various plots for easy visualization of the dataset analysis including the : 
   1. Histogram
   2. Confusion Matrix
 
