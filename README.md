@@ -1,2 +1,18 @@
 # Naviotech_Project3_Breast_Cancer_Predictor_Dataset_Analysis_Project
-This repository consist of the Breast Cancer Detection Project along with the dataset analysis on Jupyter Notebook. The dataset is imported from the scikit-learn library. 
+ 
+ This project is based on the Breast Cancer Prediction  Dataset Analysis and Streamlit UI Frontend.  
+Here, the prediction whether the tumor is Benign (Non cancerous) or malignant (Cancerous) is made on the basis of the Breast Cancer Dataset imported from scikit library. 
+
+The Machine Learning Algorithm used here is the random Forest Classification Algorithm which maeks the decisions and take predictions based on the Decision Trees.  
+
+The predictions are made on features based on : 
+ 1. Mean of measurements like the mean radius, mean texture, mean perimeter, mean area, mean smoothness, mean compactness, mean concativity, mean concave pointsand mean symmerty
+ 2. The Standard Error variations shows like the radius_error, texture_error, perimeter_error, area_error, smoothness_error etc.
+
+I've also made various plots foor easy visualization of the dataset analysis including the : 
+  1. Histogram
+  2. Confusion Matrix
+
+## The model Accuracy Score : 96.94% 
+
+Streamlit UI Frontend Link : https://cmangla-breast-cancer-predictor.streamlit.app/ 
